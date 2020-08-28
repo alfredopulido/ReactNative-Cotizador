@@ -1,5 +1,7 @@
-# ReactNative-Cotizador
+# ReactNative-Cotizador V1.0
 
 Cotizador para calcular las mensualidades y pago total de prestamos segun los meses e intereses.
 
-Aplicacion reactiva realizada en React Native
+Aplicación reactiva realizada en React Native.
+
+##Por @alfredopulido
